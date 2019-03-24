@@ -1,0 +1,39 @@
+.aaa{
+    height: 60px;
+    width: 50px;
+    background: #F77754;
+    float: left;   
+}
+.bbb{
+    height: 60px;
+    width: 50px;
+    background: rgb(84, 247, 147);
+    float: left;  
+
+}
+.ccc{
+    height: 60px;
+    width: 50px;
+    background: rgb(95, 84, 247);
+    float: left; 
+}
+.clear{
+    clear: both;
+}
+.ddd{
+    height: 60px;
+    width: 50px;
+    background: rgb(95, 84, 247);
+}
+.e{
+    height: 120px;
+    width: 100px;
+    border: 1px solid #000;
+    background: rgb(95, 84, 247);
+}
+.f{
+    height: 60px;
+    width: 50px;
+    margin-top:3px; ;
+    background: #F77754;
+}
